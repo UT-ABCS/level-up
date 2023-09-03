@@ -15,5 +15,5 @@ This repository serves as a one-way directory of all the Level Up sessions hoste
 - [How to Make a Good Resume](https://docs.google.com/presentation/d/13juuTcJ_wKQQAnQShPtUUGXp7o5kpWRUTxVZLw1PB64/edit#slide=id.g35f391192_00) (8/29)
 - [Technical Project Workshops: Info Session](https://docs.google.com/presentation/d/1mFly4h2b66m_EZagm5tvR_IFqSbQC3uuGXhcmf9tqpA/edit?usp=sharing) (8/30)
 - [How to Make a Good LinkedIn](https://docs.google.com/presentation/d/1bLHBJk49XAn34qWD4j9xQi-soUBZZP-Qw3fX_K-v3q8/edit?usp=sharing) (8/31)
-- How to Make a Good Impression
+- [How to Make a Good Impression](https://docs.google.com/presentation/d/15Hk2IccZ0aJIS_ODF-bJHmcLgoroUz79yrgSAyrSTCA/edit?usp=sharing) (9/1)
 - [Resources](https://drive.google.com/drive/folders/1EOPWla3XVDWNTjUeGy2O9czIzRLeRfZj?usp=sharing)
