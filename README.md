@@ -4,9 +4,10 @@
 This repository serves as a one-way directory of all the Level Up sessions hosted by ABCS. 
 
 ## Upcoming Sessions
-- Hot Potato
-- Raffling
-- Snake Game
+- GitHub Guide
+- CS Course Survival Guide
+- How to Research Companies
+- How to Network
 
 ## Past Sessions
 - Look at the Career Week section
