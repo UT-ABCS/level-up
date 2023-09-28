@@ -1,13 +1,13 @@
 # ABCS Level Up
 <img width="729" alt="Screenshot 2023-08-31 at 4 08 14 PM" src="https://github.com/UT-ABCS/level-up/assets/91110018/fffb945a-a032-43cd-a878-45cd9991f622">
 
-This repository serves as a one-way directory of all the Level Up sessions hosted by ABCS. 
+Level Up is ABCS' professional development initiative, meant to give attendees insight to good practices to prepare for going into the tech industry. This repository serves as a one-way directory of all the Level Up sessions hosted by ABCS. 
 
 ## Upcoming Sessions
-- GitHub Guide
-- CS Course Survival Guide
-- How to Research Companies
-- How to Network
+- GitHub Guide (10/2)
+- CS Course Survival Guide (10/16)
+- How to Research Companies (10/30)
+- How to Network (11/13)
 
 ## Past Sessions
 - Look at the Career Week section
